@@ -1,0 +1,9 @@
+timestamp,transaction,balance,description
+Tue Feb 14 18:00:57 2023,new account,0,opened new checkbook account
+Tue Feb 14 18:01:15 2023,credit,40000,payment from job at jupiter
+Tue Feb 14 18:02:41 2023,debit,-1400.44,travel back to earth
+Tue Feb 14 18:03:11 2023,credit,250.44,tea on pluto
+Tue Feb 14 18:03:53 2023,credit,1100.2,royalty payment galaxy
+Tue Feb 14 18:05:36 2023,credit,12,casino on mars
+Tue Feb 14 18:16:35 2023,debit,-333.37,hello milky way travel bag
+Tue Feb 14 18:17:17 2023,debit,-393,xpress hyper travelTue Feb 14 18:20:32 2023,credit,770.25,copyright royalty - venus
